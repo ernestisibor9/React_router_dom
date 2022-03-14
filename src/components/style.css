@@ -1,0 +1,39 @@
+.nav-link{
+    color: #fff !important;
+    font-weight: bold;
+    font-size: 1.1rem;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.nav-link:hover{
+    color: red !important;
+    font-weight: bold;
+    font-size: 1.1rem;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.navbar-brand{
+    color: #fff !important;
+    font-size: 1.3rem;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.btn-outline-success{
+    color: yellow !important;
+    background-color: crimson !important;
+}
+.bgMan{
+    background-color: #EFEFEF;
+}
+.who{
+    display: flex;
+    justify-content: space-around;
+}
+.containerwho{
+    background-color: #548CFF;
+    text-align: justify;
+}
+.boardContainer{
+    background: linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9)), url(./images/four.png);
+    height: 90vh;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
